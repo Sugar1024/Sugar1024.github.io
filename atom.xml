@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Security-论道场</title>
+  
+  <subtitle>生命的意义在于积累，人生的意义在于追寻</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-02-05T02:37:49.001Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>竹溪先生</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>酸甜扣肉</title>
+    <link href="http://example.com/2022/02/07/%E9%85%B8%E7%94%9C%E6%89%A3%E8%82%89123/"/>
+    <id>http://example.com/2022/02/07/%E9%85%B8%E7%94%9C%E6%89%A3%E8%82%89123/</id>
+    <published>2022-02-07T14:09:16.541Z</published>
+    <updated>2022-02-05T02:37:49.001Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;   扣肉是以猪肉为主原料，同时搭配灵魂酱料而做成的一道中国著名美食。扣肉的“扣”是指当肉蒸或炖熟之后，倒盖于碗盘中的过程。&lt;br&gt;   扣肉的做法众多，其中以梅菜扣肉最负盛名，一般侠义上的扣肉就指梅菜扣肉。&lt;br&gt;   扣肉以独特的金黄色泽、扑鼻清香、清爽口感而广受大众喜爱，在两广的一些地方宴席菜肴中更是占据主角的位置。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="-生活" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="-美食 -扣肉" scheme="http://example.com/tags/%E7%BE%8E%E9%A3%9F-%E6%89%A3%E8%82%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生物特征模板保护</title>
+    <link href="http://example.com/2022/02/07/%E7%94%9F%E7%89%A9%E7%89%B9%E5%BE%81%E6%A8%A1%E6%9D%BF%E4%BF%9D%E6%8A%A4/"/>
+    <id>http://example.com/2022/02/07/%E7%94%9F%E7%89%A9%E7%89%B9%E5%BE%81%E6%A8%A1%E6%9D%BF%E4%BF%9D%E6%8A%A4/</id>
+    <published>2022-02-07T14:09:16.538Z</published>
+    <updated>2017-09-08T13:56:05.829Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;生物特征识别技术在近几年研究的比较多，应该范围也比较广泛，主要是利用了生物特征具有的稳定性，唯一性，活体检测性等优良的特性。然而，在生物特征的整个使用过程中，却存在着许许多多的问题，其中主要包括的问题是生物的模糊性和生物特征的隐私性问题。今天主要介绍生物特征隐私方面的模板保护问题。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="-学习" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="-学习 -生物特征" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0-%E7%94%9F%E7%89%A9%E7%89%B9%E5%BE%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人工智能对安全的影响</title>
+    <link href="http://example.com/2022/02/07/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%B9%E5%AE%89%E5%85%A8%E7%9A%84%E5%BD%B1%E5%93%8D0/"/>
+    <id>http://example.com/2022/02/07/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%B9%E5%AE%89%E5%85%A8%E7%9A%84%E5%BD%B1%E5%93%8D0/</id>
+    <published>2022-02-07T14:09:16.536Z</published>
+    <updated>2018-01-15T15:47:16.435Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;人工智能发展非常迅速，现在不管是哪个行业，哪类人，都在试图去利用人工智能，都在奋不顾身的想和人工智能取得联系，这不但是为了赶上这股浪潮，也是对人工智能的极大信任。人工智能技术目前被广泛的应用于能源，金融和国防等领域。随着大公司对人工智能的不断追捧产品的不断更新，人们更加确信人工智能将是继网络之后，对人类的发展又进行了一次推进。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="-学习 -安全" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0-%E5%AE%89%E5%85%A8/"/>
+    
+    
+    <category term="-人工智能 -生物特征安全" scheme="http://example.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E7%94%9F%E7%89%A9%E7%89%B9%E5%BE%81%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人工智能对安全的影响</title>
+    <link href="http://example.com/2022/02/07/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%B9%E5%AE%89%E5%85%A8%E7%9A%84%E5%BD%B1%E5%93%8D/"/>
+    <id>http://example.com/2022/02/07/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%B9%E5%AE%89%E5%85%A8%E7%9A%84%E5%BD%B1%E5%93%8D/</id>
+    <published>2022-02-07T14:09:16.533Z</published>
+    <updated>2017-11-12T14:52:14.583Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;人工智能发展非常迅速，现在不管是哪个行业，哪类人，都在试图去利用人工智能，都在奋不顾身的想和人工智能取得联系，这不但是为了赶上这股浪潮，也是对人工智能的极大信任。人工智能技术目前被广泛的应用于能源，金融和国防等领域。随着大公司对人工智能的不断追捧产品的不断更新，人们更加确信人工智能将是继网络之后，对人类的发展又进行了一次推进。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="-学习 -安全" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0-%E5%AE%89%E5%85%A8/"/>
+    
+    
+    <category term="-人工智能 -生物特征安全" scheme="http://example.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E7%94%9F%E7%89%A9%E7%89%B9%E5%BE%81%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2022/02/07/hello-world/"/>
+    <id>http://example.com/2022/02/07/hello-world/</id>
+    <published>2022-02-07T13:39:39.427Z</published>
+    <updated>2022-02-07T13:39:39.427Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
